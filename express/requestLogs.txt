@@ -1,0 +1,2 @@
+27122022	15:37:15	30e3940a-b13c-46e3-9a0b-2954fd007184	GET	undefined	/
+27122022	15:37:15	100035ad-5444-4ac9-b422-53aaaba801f0	GET	undefined	/css/globals.css

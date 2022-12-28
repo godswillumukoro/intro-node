@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@400;800&family=Varela+Round&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    /* max-width: 100%; */
+}
+
+body {
+    background-color: #8a2be2;
+    background: linear-gradient(360deg, rgba(36, 0, 36, 0.6) 0%, rgba(138, 43, 226, 1) 50%, rgba(0, 212, 255, 1) 100%);
+    background-repeat: no-repeat;
+    color: rgb(0, 22, 66);
+    min-height: 100vh;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.flex {
+    min-height: 100vh;
+    display: flex;
+}
+
+.centered {
+    justify-content: center;
+    align-items: center;
+}
+
+.evened {
+    justify-content: space-between;
+    gap: 5rem;
+}
+
+h1 {
+    font-size: 4.5rem;
+    font-family: 'Unbounded', cursive;
+}
+
+p {
+    font-size: 1.2rem;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.image {
+    min-height: 100vh;
+    min-width: 50%;
+    /* background-color: yellow; */
+}
+
+.image > img {
+    max-height: 80vh;
+    margin: auto;
+
+}
+
+.about-content--text {
+    margin-top: 20vh;
+}
+
+.txt-light {
+    color: lavenderblush;
+}
+
+.txt-large {
+    font-size: 16.5rem;
+}
+
+.mgt-4 {
+    margin-top: 4rem;
+}
+.mgb-4 {
+    margin-bottom: 4rem;
+}
+.mgb-2 {
+    margin-bottom: 2rem;
+}
+
+.owl-2 > *+* {
+    margin-block: 2rem;
+}

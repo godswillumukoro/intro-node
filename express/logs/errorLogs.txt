@@ -1,0 +1,10 @@
+27122022	16:47:55	2a332750-dd5c-443e-890a-2b2f0010a485	Error: Not allowed by CORS
+28122022	09:43:26	592489bc-fe1d-4aeb-b873-a90bb8d20a61	ForbiddenError: Forbidden
+28122022	09:43:34	5c9c2d17-8c8d-4689-a7bb-cae4c97d511b	ForbiddenError: Forbidden
+28122022	09:44:16	5adb4283-a73a-47fc-98af-09f13cdf7a94	ForbiddenError: Forbidden
+28122022	09:44:18	57badfb7-bce3-47da-800f-ef90a21c3160	ForbiddenError: Forbidden
+28122022	09:44:29	4284969d-2fac-4065-a6fc-ec2b4abf2a32	ForbiddenError: Forbidden
+28122022	09:45:07	9b8e2b79-d2e1-4524-a207-3f88f8adbb85	ForbiddenError: Forbidden
+28122022	09:45:09	898dade1-574e-40a8-866c-9fe115325786	ForbiddenError: Forbidden
+28122022	09:47:15	825cf971-c379-42bd-86af-d5bea3d475e2	ForbiddenError: Forbidden
+28122022	09:47:40	d5341a3e-7027-4e3e-aff1-1a7d82aeb0a0	ForbiddenError: Forbidden
